@@ -3,13 +3,13 @@
 
 ## Sobre Mim
 
-### Meu nome é Fabrizio sou de Rio Branco - Acre.
+### Meu nome é Fabrizio e sou de Rio Branco - Acre.
 
-Olá! Eu sou um entusiasta de programação focado no desenvolvimento web. Atualmente, sou iniciante na programação, com foco especial no front-end, mas com planos de me tornar um desenvolvedor full-stack. Estou a procura de conhecimento para criar experiências web incríveis e funcionais.
+Sou um entusiasta de programação focado no desenvolvimento WEB. Atualmente, sou iniciante na programação, com foco especial no Front-End, mas com planos de me tornar um desenvolvedor Full-Stack. Estou a procura de conhecimento para criar experiências WEB incríveis, funcionais e sólidas.
 
-Além dos meus estudos autodidatas, estou planejando iniciar uma faculdade de Análise e Desenvolvimento de Sistemas. Estou entusiasmado com a oportunidade de aprimorar minha compreensão teórica e prática, além de colaborar com colegas e professores.
+Além dos meus estudos autodidatas, estou cursando Sistema de Informação na UniNorte e fazendo o curos ONE-G8 da ORACLE. Estou buscando aprimorar a minha compreensão teórica e prática, além de colaborar com colegas e professores.
 
-Meu objetivo é não apenas dominar as tecnologias atuais, como também estar sempre atualizado com as últimas tendências e práticas recomendadas na indústria de desenvolvimento de software. Acredito firmemente na importância da aprendizagem contínua para o crescimento profissional.
+Meu objetivo é não apenas dominar a programção, também quero estar sempre atualizado com as últimas tendências e práticas recomendadas na indústria de desenvolvimento de software. Acredito firmemente na importância da aprendizagem contínua para o crescimento profissional.
 
 
 ## Habilidades
@@ -53,23 +53,26 @@ Meu objetivo é não apenas dominar as tecnologias atuais, como também estar se
 <div align="center">
   <a href="https://github.com/FabrizioDev">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FabrizioDev&theme=midnight-purple"/>
+  <br>
   <img height="160em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=FabrizioDev&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF"/>
 </div>
 
 ## Projetos
 
-  [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=FabrizioDev&repo=PobreFilx&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/SEUUSERNAME/SEUREPOSITORIO)
-  [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=FabrizioDev&repo=ProjetoAgro&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/SEUUSERNAME/SEUREPOSITORIO)
+  [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=FabrizioDev&repo=PobreFilx&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/FabrizioDev/projeto-astro-00)
+  [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=FabrizioDev&repo=PobreFilx&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/FabrizioDev/AcreStore)
+  [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=FabrizioDev&repo=PobreFilx&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/FabrizioDev/PobreFilx)
+  [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=FabrizioDev&repo=ProjetoAgro&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/FabrizioDev/ProjetoAgro)
 
 ## Estudos Atuais
 
 Atualmente, estou focado(a) nos seguintes tópicos:
 
-- Aprofundando meu conhecimento em desenvolvimento front-end.
+- Aprofundando meu conhecimento em desenvolvimento Front-End.
 - Explorando Node.js para o lado do servidor.
 - Aprimorando minhas habilidades em MySQL para gerenciamento de banco de dados.
 
 ## Contato
 
 - [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=E94D5F)](mailto:fabrizio.dev.br@gmail.com)
-- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/gabriel-pires-947bb1252/)
+- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/fabrizio-girão-919676219)

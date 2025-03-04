@@ -59,8 +59,8 @@ Meu objetivo é não apenas dominar a programção, também quero estar sempre a
 
 ## Projetos
 
-  [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=FabrizioDev&repo=PobreFilx&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/FabrizioDev/projeto-astro-00)
-  [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=FabrizioDev&repo=PobreFilx&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/FabrizioDev/AcreStore)
+  [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=FabrizioDev&repo=projeto-astro-00&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/FabrizioDev/projeto-astro-00)
+  [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=FabrizioDev&repo=AcreStore&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/FabrizioDev/AcreStore)
   [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=FabrizioDev&repo=PobreFilx&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/FabrizioDev/PobreFilx)
   [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=FabrizioDev&repo=ProjetoAgro&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/FabrizioDev/ProjetoAgro)
 

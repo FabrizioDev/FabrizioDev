@@ -72,6 +72,7 @@ Atualmente, estou focado(a) nos seguintes tópicos:
 - Aprofundando meu conhecimento em desenvolvimento Front-End.
 - Explorando Node.js para o lado do servidor.
 - Aprimorando minhas habilidades em MySQL para gerenciamento de banco de dados.
+- Estudando JAVA para o Back-End com o Curnso ONE da Oracle
 
 ## Contato
 

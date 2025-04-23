@@ -9,7 +9,7 @@ Sou um entusiasta de programação focado no desenvolvimento WEB. Atualmente, so
 
 Além dos meus estudos autodidatas, estou cursando Sistema de Informação na UniNorte e fazendo o curos ONE-G8 da ORACLE. Estou buscando aprimorar a minha compreensão teórica e prática, além de colaborar com colegas e professores.
 
-Meu objetivo é não apenas dominar a programção, também quero estar sempre atualizado com as últimas tendências e práticas recomendadas na indústria de desenvolvimento de software. Acredito firmemente na importância da aprendizagem contínua para o crescimento profissional.
+Meu objetivo é não apenas saber programção, quero ter um conhecimento bem estruturado para assim estar sempre atualizado com as últimas tendências e práticas recomendadas na indústria de desenvolvimento de software. Acredito firmemente na importância da aprendizagem contínua para o crescimento profissional.
 
 
 ## Habilidades
@@ -30,7 +30,7 @@ Meu objetivo é não apenas dominar a programção, também quero estar sempre a
   ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
   ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
   ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-  ![TailwindCSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+  ![Tailwind](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
   ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
   ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
